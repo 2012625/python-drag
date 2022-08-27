@@ -1,25 +1,30 @@
-项目名称
+# 项目名称
 blockpydemo
+
+## 项目简介
 基于Blocly开发的双向互译可拖拽式积木编程的demo
 
 
 
-上手指南
-安装项目
-git clone https://se.jisuanke.com/project1/equation/pythondrag-demo.git
+# 上手指南
+### 安装项目
+```bash
+git clone https://github.com/2012625/python-drag.git
+```
 
 
-
-部署依赖环境
+### 部署依赖环境
+```bash
 yarn install
+```
 
 
 
 
-
-运行步骤
+## 运行步骤
+```bash
 npm run serve
-
+```
 
 
 
